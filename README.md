@@ -1,8 +1,7 @@
 # Hello there 👋
 
 
-![Tomasz's GitHub stats](https://github-readme-stats.vercel.app/api?username=tzaton&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true)
-
+![Tomasz's GitHub stats](https://github-readme-stats.vercel.app/api?username=tzaton&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&line_height=20)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tzaton&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
