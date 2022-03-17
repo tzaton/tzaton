@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hello there 👋
+
+
+![Tomasz's GitHub stats](https://github-readme-stats.vercel.app/api?username=tzaton&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tzaton&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <!--
 **tzaton/tzaton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
